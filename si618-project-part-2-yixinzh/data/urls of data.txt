@@ -1,0 +1,8 @@
+﻿Listings:
+http://data.insideairbnb.com/united-states/ny/new-york-city/2015-12-02/data/listings.csv.gz
+
+census:
+https://www.kaggle.com/muonneutrino/new-york-city-census-data?select=nyc_census_tracts.csv
+
+census_block_loc：
+generated from Listings data in R. Not downloaded.
